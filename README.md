@@ -1,4 +1,4 @@
-WhatsTheTip
+What's the Tip?
 ===========
 An easy to use tip calculator that actually looks nice! A refreshing change from clunkly, difficult to use tip calculators that have too many options. 
 
